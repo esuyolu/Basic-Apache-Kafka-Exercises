@@ -1,0 +1,10 @@
+C:\Dev\clickevent-api\src\main\java\com\xcommerce\clickevent\api\ClickController.java
+C:\Dev\clickevent-api\src\main\java\com\xcommerce\clickevent\Application.java
+C:\Dev\clickevent-api\src\main\java\com\xcommerce\clickevent\model\ClickResponse.java
+C:\Dev\clickevent-api\src\main\java\com\xcommerce\clickevent\service\ProducerService.java
+C:\Dev\clickevent-api\src\main\java\com\xcommerce\clickevent\model\KafkaDataModel.java
+C:\Dev\clickevent-api\src\main\java\com\xcommerce\clickevent\mapper\KafkaRequestMapper.java
+C:\Dev\clickevent-api\src\main\java\com\xcommerce\clickevent\config\YamlConfig.java
+C:\Dev\clickevent-api\src\main\java\com\xcommerce\clickevent\service\ProducerServiceImpl.java
+C:\Dev\clickevent-api\src\main\java\com\xcommerce\clickevent\service\KafkaCustomerProducer.java
+C:\Dev\clickevent-api\src\main\java\com\xcommerce\clickevent\model\ClickRequest.java

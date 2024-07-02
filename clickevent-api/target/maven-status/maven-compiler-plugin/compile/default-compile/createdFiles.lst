@@ -1,0 +1,10 @@
+com\xcommerce\clickevent\service\ProducerServiceImpl.class
+com\xcommerce\clickevent\service\ProducerService.class
+com\xcommerce\clickevent\api\ClickController.class
+com\xcommerce\clickevent\model\ClickResponse.class
+com\xcommerce\clickevent\model\KafkaDataModel.class
+com\xcommerce\clickevent\mapper\KafkaRequestMapper.class
+com\xcommerce\clickevent\Application.class
+com\xcommerce\clickevent\config\YamlConfig.class
+com\xcommerce\clickevent\service\KafkaCustomerProducer.class
+com\xcommerce\clickevent\model\ClickRequest.class
